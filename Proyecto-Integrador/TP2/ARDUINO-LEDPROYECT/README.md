@@ -1,3 +1,0 @@
-![LOGO](https://github.com/ISPC-TST-EM-2024/MNRP-ZalazarGustavo-EM/assets/141375378/b0557e5d-3f5c-4f50-8a0e-68deb7a6d40f)
-
-PLACA ARDUINO CON LED Y BOTÓN INTEGRADOS. 
