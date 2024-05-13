@@ -1,3 +1,5 @@
+![LOGO](https://github.com/ISPC-TST-PI-I-2024/MNRP-JoaquinZalazar-PI/assets/141375378/ab579334-b78a-4e2c-99ab-bd5a297ad8e7)
+
 # TP 2 Fundamentos de Programación IoT y Módulos de Desarrollo
 
 ## Docente : VERA, Gustavo  
