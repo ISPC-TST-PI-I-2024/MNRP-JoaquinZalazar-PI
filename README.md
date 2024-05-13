@@ -24,9 +24,13 @@ Monorepositorio para trabajos requeridos en la materia Proyecto Integrador
 # Estructura de los trabajos presentados. 
 TP 
   A- Requisitos
+
   B- Investigación
+
   C- Prototipo 
+
   D- Presentación
+  
   Readme.md
 
 
