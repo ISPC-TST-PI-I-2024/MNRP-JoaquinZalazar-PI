@@ -1,3 +1,5 @@
+![LOGO](https://github.com/ISPC-TST-PI-I-2024/MNRP-JoaquinZalazar-PI/assets/141375378/59da2e83-2ba6-4edd-b12b-e7b62261b134)
+
 # TP 1 Introducción al IoT
 
 ## Docente : VERA, Gustavo  
