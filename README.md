@@ -22,16 +22,18 @@ Monorepositorio para trabajos requeridos en la materia Proyecto Integrador
   Realizar prácticas relacionadas a placas programables como lo son ESP32 y Arduino en entornos virtuales utilizando simuladores     tales   como wokwi, platformIO, TinkerCAD, Proteus 8 y posteriormente realizando la respectica integración continúa de los avances   en los repositorios de GitHub personales divididos en materias por el docente, dicho esto cabe destacar esta especie de             introducción a DevOps empezando con la familiarización con Git y GitHub.
 
 # Estructura de los trabajos presentados. 
-TP 
-  A- Requisitos
 
-  B- Investigación
+  TP 
 
-  C- Prototipo 
+    A- Requisitos
 
-  D- Presentación
-  
-  Readme.md
+    B- Investigación
+
+    C- Prototipo 
+
+    D- Presentación
+
+    Readme.md
 
 
 # Perfil del estudiante.
