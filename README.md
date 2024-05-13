@@ -3,11 +3,11 @@
 
 Monorepositorio para trabajos requeridos en la materia Proyecto Integrador
 
-ALUMNO: ZALAZAR, Gustavo Joaquin 
+## ALUMNO: ZALAZAR, Gustavo Joaquin 
 
-Materia: PROYECTO INTEGRADOR
+## Materia: PROYECTO INTEGRADOR
 
-DOCENTE: CRISTIAN GONZALO VERA
+## DOCENTE: CRISTIAN GONZALO VERA
 
 # Proyectos presentados/propuestos 
 
@@ -23,11 +23,11 @@ DOCENTE: CRISTIAN GONZALO VERA
 
 # Estructura de los trabajos presentados. 
   TP 1
-    A- Requisitos
-    B- Investigación
-    C- Prototipo 
-    D- Presentación
-    Readme.md
+      A- Requisitos
+      B- Investigación
+      C- Prototipo 
+      D- Presentación
+      Readme.md
 
 
 # Perfil del estudiante.
