@@ -1,6 +1,8 @@
+![LOGO](https://github.com/ISPC-TST-PI-I-2024/MNRP-JoaquinZalazar-PI/assets/141375378/f975c5f2-a4b6-4063-b699-ec6edb9288f7)
+
 # TP 3 TRANSDUCTORES BINARIOS
 
-## Docente : VERA, Gustavo  
+## Docente : VERA, Gonzalo
 
 ## Alumno: ZALAZAR, Gustavo Joaquin
 
